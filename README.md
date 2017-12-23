@@ -1,5 +1,5 @@
 # NtKinectDLL
 
-DLL Library of NtKinect and Wrappers
+DLL Library and Wrappers for NtKinect
 
 http://nw.tsuda.ac.jp/lec/NtKinectDLL/
